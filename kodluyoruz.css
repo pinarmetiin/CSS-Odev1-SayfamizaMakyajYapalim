@@ -1,0 +1,22 @@
+.black{
+    color: black;
+}
+
+#gradient{
+    background: #04690B;
+    background: radial-gradient(ellipse farthest-side at bottom right, #04690B 15%, #703A03 100%);
+    -webkit-background-clip: text;
+    -webkit-text-fill-color: transparent;
+
+    text-align: center;
+}
+
+.ortala{
+    text-align: center;
+    
+}
+
+.size{
+    width: 100px;
+    height: 100px;
+}
